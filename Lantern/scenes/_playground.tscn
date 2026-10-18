@@ -1,0 +1,35 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="PackedScene" path="res://scenes/player.tscn" id="1_player"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ground"]
+size = Vector2(2600, 80)
+
+[node name="Playground" type="Node2D"]
+
+[node name="Backdrop" type="Polygon2D" parent="."]
+z_index = -100
+polygon = PackedVector2Array(-4000, -4000, 4000, -4000, 4000, 4000, -4000, 4000)
+color = Color(0.223529, 0.235294, 0.380392, 1)
+
+[node name="CanvasModulate" type="CanvasModulate" parent="."]
+color = Color(0.435294, 0.470588, 0.619608, 1)
+
+[node name="Ground" type="StaticBody2D" parent="."]
+position = Vector2(640, 620)
+collision_layer = 1
+collision_mask = 0
+
+[node name="Shape" type="CollisionShape2D" parent="Ground"]
+shape = SubResource("RectangleShape2D_ground")
+
+[node name="Visual" type="Polygon2D" parent="Ground"]
+polygon = PackedVector2Array(-1300, -40, 1300, -40, 1300, 40, -1300, 40)
+color = Color(0.352941, 0.294118, 0.243137, 1)
+
+[node name="Player" parent="." instance=ExtResource("1_player")]
+position = Vector2(320, 540)
+
+[node name="Camera" type="Camera2D" parent="Player"]
+position = Vector2(0, -70)
+zoom = Vector2(2, 2)

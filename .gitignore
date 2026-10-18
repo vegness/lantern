@@ -1,0 +1,11 @@
+
+# --- added when publishing ---
+.workbuddy/
+Lantern/build/
+Lantern/.godot/
+.godot/
+*.exe
+*.pck
+*.tmp
+Thumbs.db
+.DS_Store

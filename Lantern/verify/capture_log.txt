@@ -1,0 +1,42 @@
+请求截图：帧 [40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 76, 82, 90] → verify/jp_v9.png
+开始按住 jump
+玩家屏幕矩形 left=612 top=388 right=673 bottom=461 尺寸=61x73 缩放=0.153 动画=idle 帧=1
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f040.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=386 right=673 bottom=459 尺寸=61x73 缩放=0.153 动画=jump 帧=0
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f042.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=385 right=673 bottom=458 尺寸=61x73 缩放=0.153 动画=jump 帧=1
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f044.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=384 right=673 bottom=457 尺寸=61x73 缩放=0.153 动画=jump 帧=1
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f046.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=383 right=673 bottom=456 尺寸=61x73 缩放=0.153 动画=jump 帧=2
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f048.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=382 right=673 bottom=456 尺寸=61x73 缩放=0.153 动画=jump 帧=3
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f050.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=382 right=673 bottom=455 尺寸=61x73 缩放=0.153 动画=jump 帧=3
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f052.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=372 right=673 bottom=446 尺寸=61x73 缩放=0.153 动画=jump 帧=4
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f054.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=342 right=673 bottom=416 尺寸=61x73 缩放=0.153 动画=jump 帧=4
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f056.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=323 right=673 bottom=396 尺寸=61x73 缩放=0.153 动画=jump 帧=5
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f058.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=311 right=673 bottom=385 尺寸=61x73 缩放=0.153 动画=jump 帧=5
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f060.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=306 right=673 bottom=379 尺寸=61x73 缩放=0.153 动画=jump 帧=5
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f062.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=305 right=673 bottom=379 尺寸=61x73 缩放=0.153 动画=jump 帧=6
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f064.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=308 right=673 bottom=382 尺寸=61x73 缩放=0.153 动画=jump 帧=6
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f066.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=314 right=673 bottom=388 尺寸=61x73 缩放=0.153 动画=jump 帧=6
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f068.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=322 right=673 bottom=395 尺寸=61x73 缩放=0.153 动画=jump 帧=7
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f070.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=331 right=673 bottom=405 尺寸=61x73 缩放=0.153 动画=jump 帧=7
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f072.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=354 right=673 bottom=427 尺寸=61x73 缩放=0.153 动画=jump 帧=8
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f076.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=393 right=673 bottom=466 尺寸=61x73 缩放=0.153 动画=jump 帧=9
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f082.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=449 right=673 bottom=522 尺寸=61x73 缩放=0.153 动画=jump 帧=11
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_v9_f090.png 尺寸=(1280, 720)

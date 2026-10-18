@@ -1,0 +1,70 @@
+[gd_scene load_steps=7 format=3]
+
+[ext_resource type="Script" path="res://scripts/player/player.gd" id="1_player"]
+[ext_resource type="Script" path="res://scripts/player/player_visual.gd" id="2_visual"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_body"]
+size = Vector2(24, 46)
+
+[sub_resource type="Gradient" id="Gradient_lamp"]
+offsets = PackedFloat32Array(0, 0.42, 0.78, 1)
+colors = PackedColorArray(1, 1, 1, 1, 1, 1, 1, 0.62, 1, 1, 1, 0.22, 1, 1, 1, 0)
+
+[sub_resource type="GradientTexture2D" id="GradientTexture2D_lamp"]
+gradient = SubResource("Gradient_lamp")
+width = 512
+height = 512
+fill = 1
+fill_from = Vector2(0.5, 0.5)
+fill_to = Vector2(0.5, 0)
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_interact"]
+radius = 46.0
+
+[sub_resource type="OccluderPolygon2D" id="OccluderPolygon2D_player"]
+polygon = PackedVector2Array(11, 23, 12, 0, 8, -20, 0, -24, -8, -20, -12, 0, -11, 23)
+
+[node name="Player" type="CharacterBody2D"]
+collision_layer = 2
+collision_mask = 1
+floor_snap_length = 3.0
+script = ExtResource("1_player")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_body")
+
+[node name="Visual" type="Node2D" parent="."]
+light_mask = 2
+position = Vector2(0, 23)
+script = ExtResource("2_visual")
+
+[node name="Lantern" type="PointLight2D" parent="."]
+position = Vector2(11, 2)
+color = Color(1, 0.847059, 0.568627, 1)
+energy = 1.15
+range_item_cull_mask = 1
+texture_scale = 1.008
+texture = SubResource("GradientTexture2D_lamp")
+
+[node name="SelfLight" type="PointLight2D" parent="."]
+position = Vector2(0, -12)
+color = Color(1, 0.929412, 0.827451, 1)
+energy = 0.7
+range_item_cull_mask = 2
+texture_scale = 0.215
+texture = SubResource("GradientTexture2D_lamp")
+
+[node name="InteractArea" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 4
+
+[node name="InteractShape" type="CollisionShape2D" parent="InteractArea"]
+shape = SubResource("CircleShape2D_interact")
+
+[node name="GroundProbe" type="RayCast2D" parent="."]
+position = Vector2(0, 23)
+target_position = Vector2(0, 8)
+
+[node name="Occluder" type="LightOccluder2D" parent="."]
+occluder_light_mask = 2
+occluder = SubResource("OccluderPolygon2D_player")

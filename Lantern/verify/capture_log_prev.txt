@@ -1,0 +1,30 @@
+请求截图：帧 [40, 41, 42, 43, 44, 46, 48, 52, 56, 62, 68, 76, 84, 92] → verify/jp.png
+开始按住 jump
+玩家屏幕矩形 left=612 top=386 right=673 bottom=459 尺寸=61x73 缩放=0.153 动画=jump 帧=0
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_f040.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=373 right=673 bottom=446 尺寸=61x73 缩放=0.153 动画=jump 帧=3
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_f041.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=338 right=673 bottom=412 尺寸=61x73 缩放=0.153 动画=jump 帧=3
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_f042.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=332 right=673 bottom=405 尺寸=61x73 缩放=0.153 动画=jump 帧=4
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_f043.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=339 right=673 bottom=412 尺寸=61x73 缩放=0.153 动画=jump 帧=4
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_f044.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=351 right=673 bottom=425 尺寸=61x73 缩放=0.153 动画=jump 帧=5
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_f046.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=369 right=673 bottom=442 尺寸=61x73 缩放=0.153 动画=jump 帧=6
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_f048.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=388 right=673 bottom=461 尺寸=61x73 缩放=0.153 动画=jump 帧=7
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_f052.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=411 right=673 bottom=485 尺寸=61x73 缩放=0.153 动画=jump 帧=7
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_f056.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=440 right=673 bottom=514 尺寸=61x73 缩放=0.153 动画=jump 帧=8
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_f062.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=419 right=673 bottom=492 尺寸=61x73 缩放=0.153 动画=jump 帧=10
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_f068.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=391 right=673 bottom=465 尺寸=61x73 缩放=0.153 动画=idle 帧=0
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_f076.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=384 right=673 bottom=457 尺寸=61x73 缩放=0.153 动画=idle 帧=2
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_f084.png 尺寸=(1280, 720)
+玩家屏幕矩形 left=612 top=381 right=673 bottom=455 尺寸=61x73 缩放=0.153 动画=idle 帧=3
+已保存 E:/deskbox/我的桌面/1111/Lantern/verify/jp_f092.png 尺寸=(1280, 720)
